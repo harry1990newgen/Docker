@@ -51,13 +51,9 @@ You can start a container with a simple command:
 
 ```bash
 docker run <image-name>
----
-Containers are **portable**, **efficient**, and ensure your application behaves  
-**exactly the same** everywhere.
 
----
 
-## 🔹 3️⃣ Docker Engine
+### 🔹 3️⃣ Docker Engine
 
 The **Docker Engine** is the core service that powers Docker.  
 It is responsible for:
