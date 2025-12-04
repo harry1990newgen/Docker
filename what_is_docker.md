@@ -40,7 +40,7 @@ step-by-step instructions on how the image should be built.
 FROM python:3.10
 COPY app.py /app.py
 CMD ["python", "app.py"]
-
+```bash
 ---
 ## 🔹 2️⃣ Docker Containers
 
