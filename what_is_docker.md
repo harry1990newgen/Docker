@@ -40,9 +40,10 @@ step-by-step instructions on how the image should be built.
 FROM python:3.10
 COPY app.py /app.py
 CMD ["python", "app.py"]
-```bash
+
 ---
-## 🔹 2️⃣ Docker Containers
+
+### 🔹 2️⃣ Docker Containers
 
 A **container** is a *running instance* of a Docker image.  
 Think of it as the actual environment where your application executes.
