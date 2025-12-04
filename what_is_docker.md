@@ -34,7 +34,6 @@ step-by-step instructions on how the image should be built.
 
 ---
 
----
 ## 🔹 2️⃣ Docker Containers
 
 A **container** is a *running instance* of a Docker image.  
@@ -47,12 +46,8 @@ A container includes:
 - 🔒 Isolation from other apps on the system  
 - ⚡ Fast startup and minimal resource usage  
 
-You can start a container with a simple command:
+You can start a container with a simple command: docker run <image-name>
 
-```bash
-docker run <image-name>
-
----
 
 ---
 
