@@ -69,7 +69,6 @@ Docker Engine uses powerful Linux kernel technologies:
 
 ---
 
----
 ## 🔹 4️⃣ Docker Registry
 
 A **Docker registry** is a central storage hub for Docker images.  
@@ -81,11 +80,9 @@ The most widely used registry is **Docker Hub**, but other options include:
 - 🔒 **Private registries**
 
 You can download and upload images using simple commands:
-
-```bash
 docker pull nginx
 docker push my-image
----
+
 ---
 ## 🔹 Summary
 
