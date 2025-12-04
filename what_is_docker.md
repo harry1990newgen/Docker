@@ -34,8 +34,8 @@ step-by-step instructions on how the image should be built.
 
 ---
 
-
-### 🔹 2️⃣ Docker Containers
+---
+## 🔹 2️⃣ Docker Containers
 
 A **container** is a *running instance* of a Docker image.  
 Think of it as the actual environment where your application executes.
@@ -54,7 +54,7 @@ docker run <image-name>
 
 ---
 
-
+---
 
 ## 🔹 3️⃣ Docker Engine
 
@@ -74,6 +74,7 @@ Docker Engine uses powerful Linux kernel technologies:
 
 ---
 
+---
 ## 🔹 4️⃣ Docker Registry
 
 A **Docker registry** is a central storage hub for Docker images.  
@@ -89,6 +90,7 @@ You can download and upload images using simple commands:
 ```bash
 docker pull nginx
 docker push my-image
+---
 ---
 ## 🔹 Summary
 
